@@ -1,5 +1,5 @@
 # PracticaPandas
-Ejercicio de Pandas con un Dataset de datos de PIB  y ejercicio Numpy
+Ejercicio de Pandas con un Dataset de datos de PIB  y ejercicio Numpy de edades e ingresos
 <br>Integrantes:  
 - Ferney Alonso Moreno Pineda  
               cod: 20221099011,

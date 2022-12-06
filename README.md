@@ -12,4 +12,4 @@ Ejercicio de Pandas con un Dataset de datos de PIB  y ejercicio Numpy
 Se realiza el TOP 5 con el PIB promedio mas alto de los paises y así mismo el TOP 5 con el PIB mas bajo por pais.
 
   <br>
-El archivo llamado Ejercicio_numpay.ipynb contiene la practica realizada en clase 
+El archivo llamado Ejercicio_numpay_edades_e_ingresos.ipynb contiene la practica realizada en clase 

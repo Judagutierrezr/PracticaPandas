@@ -1,5 +1,5 @@
 # PracticaPandas
-Ejercicio de Pandas con un Dataset de datos de PIB 
+Ejercicio de Pandas con un Dataset de datos de PIB  y ejercicio Numpy
 <br>Integrantes:  
 - Ferney Alonso Moreno Pineda  
               cod: 20221099011,
@@ -10,3 +10,6 @@ Ejercicio de Pandas con un Dataset de datos de PIB
               <br> Se utiliza la libreria Pandas para poner en practica sus caracteristicas.
 
 Se realiza el TOP 5 con el PIB promedio mas alto de los paises y así mismo el TOP 5 con el PIB mas bajo por pais.
+
+  <br>
+El archivo llamado Ejercicio_numpay.ipynb contiene la practica realizada en clase 

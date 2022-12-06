@@ -1,6 +1,6 @@
 # PracticaPandas
 Ejercicio de Pandas con un Dataset de datos de PIB 
-Integrantes:  
+<br>Integrantes:  
 - Ferney Alonso Moreno Pineda  
               cod: 20221099011,
 - Brayan Estiven Barinas Perdomo
